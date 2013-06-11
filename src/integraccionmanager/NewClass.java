@@ -9,5 +9,6 @@ package integraccionmanager;
  * @author tina
  */
 public class NewClass {
+    // prueba Magica
     
 }
